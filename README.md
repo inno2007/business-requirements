@@ -33,10 +33,10 @@ It’s designed to showcase practical knowledge of system design, UML, and stake
 ## 🛠 Related Work
 
 If you're interested in:
-- **Information systems theory** → See my [`information-systems`](https://github.com/your-username/information-systems)
-- **Database design & SQL** → Check out [`database-fundamentals`](https://github.com/your-username/database-fundamentals)
-- **Networking labs & protocol design** → Visit [`networking`](https://github.com/your-username/networking)
-- **Cybersecurity tools, simulations & defenses** → Explore [`cybersec`](https://github.com/your-username/cybersec)
+- **Information systems theory** → See my [`information-systems`](https://github.com/inno2007/information-systems)
+- **Database design & SQL** → Check out [`database-fundamentals`](https://github.com/inno2007/database-fundamentals)
+- **Networking labs & protocol design** → Visit [`networking`](https://github.com/inno2007/networking)
+- **Cybersecurity tools, simulations & defenses** → Explore [`cybersec`](https://github.com/inno2007/cybersec)
 
 ---
 
